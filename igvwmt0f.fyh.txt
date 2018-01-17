@@ -1,0 +1,46 @@
+﻿
+initial files
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   InBoundClient/App.config
+#	new file:   InBoundClient/InBoundClient.csproj
+#	new file:   InBoundClient/Program.cs
+#	new file:   InBoundClient/Properties/AssemblyInfo.cs
+#	new file:   InBoundClient/packages.config
+#	new file:   OutBoundClient/App.config
+#	new file:   OutBoundClient/OutBoundClient.csproj
+#	new file:   OutBoundClient/Program.cs
+#	new file:   OutBoundClient/Properties/AssemblyInfo.cs
+#	new file:   OutBoundClient/packages.config
+#	new file:   StreamDTO/FirstSimple.cs
+#	new file:   StreamDTO/Properties/AssemblyInfo.cs
+#	new file:   StreamDTO/SecondSimple.cs
+#	new file:   StreamDTO/SignatureBase.cs
+#	new file:   StreamDTO/StreamDTO.csproj
+#	new file:   StreamTestGrains/BaseEaterGrain.cs
+#	new file:   StreamTestGrains/ISampleStreamingGrains.cs
+#	new file:   StreamTestGrains/Properties/AssemblyInfo.cs
+#	new file:   StreamTestGrains/SampleStreamingGrains.cs
+#	new file:   StreamTestGrains/StreamTestGrains.csproj
+#	new file:   StreamTestGrains/Utils/Constants.cs
+#	new file:   StreamTestGrains/packages.config
+#	new file:   StreamTypeUnitTests/ClientStreamTests.cs
+#	new file:   StreamTypeUnitTests/GrainStreamTests.cs
+#	new file:   StreamTypeUnitTests/ImplicitGrainStreamTests.cs
+#	new file:   StreamTypeUnitTests/Properties/AssemblyInfo.cs
+#	new file:   StreamTypeUnitTests/StreamTypeUnitTests.csproj
+#	new file:   StreamTypeUnitTests/packages.config
+#	new file:   StreamerTypesTest.sln
+#	new file:   TestSilo/App.config
+#	new file:   TestSilo/Program.cs
+#	new file:   TestSilo/Properties/AssemblyInfo.cs
+#	new file:   TestSilo/TestSilo.csproj
+#	new file:   TestSilo/packages.config
+#
+

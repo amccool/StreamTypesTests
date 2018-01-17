@@ -43,7 +43,7 @@ namespace StreamTestGrains
             object[] attrs = GetType().GetCustomAttributes(typeof(ImplicitStreamSubscriptionAttribute), true);
             foreach (ImplicitStreamSubscriptionAttribute implictSub in attrs)
             {
-                var streamNamespace = implictSub.Namespace;
+                var streamNamespace = implictSub.ToString();// .Namespace;
 
                 stream = streamProvider.GetStream<SignatureBase>(this.GetPrimaryKey(), streamNamespace);
 
